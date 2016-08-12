@@ -1,0 +1,10 @@
+{
+"author": "zdenop",
+"author-email": "zdenop@gmail.com",
+"license": "Apache 2.0",
+"modified": "2015-06-25T12:25:00Z",
+"name": "hin",
+"summary": "Tesseract 3.03 hin model",
+"url": "https://github.com/tesseract-ocr/tessdata",
+"files": ["hin.cube.params", "./hin.cube.fold", "./hin.cube.bigrams", "./hin.cube.nn", "./hin.traineddata", "./hin.cube.word-freq", "./hin.cube.lm", "./hin.tesseract_cube.nn"]
+}

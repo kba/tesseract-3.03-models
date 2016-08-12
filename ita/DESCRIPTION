@@ -1,0 +1,10 @@
+{
+"author": "zdenop",
+"author-email": "zdenop@gmail.com",
+"license": "Apache 2.0",
+"modified": "2015-06-25T12:25:00Z",
+"name": "ita",
+"summary": "Tesseract 3.03 ita model",
+"url": "https://github.com/tesseract-ocr/tessdata",
+"files": ["ita.cube.size", "./ita.cube.word-freq", "./ita.cube.nn", "./ita.cube.lm", "./ita.cube.fold", "./ita.traineddata", "./ita.tesseract_cube.nn", "./ita.cube.bigrams", "./ita.cube.params"]
+}

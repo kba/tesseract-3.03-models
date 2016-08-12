@@ -1,0 +1,10 @@
+{
+"author": "zdenop",
+"author-email": "zdenop@gmail.com",
+"license": "Apache 2.0",
+"modified": "2015-06-25T12:25:00Z",
+"name": "fra",
+"summary": "Tesseract 3.03 fra model",
+"url": "https://github.com/tesseract-ocr/tessdata",
+"files": ["fra.cube.fold", "./fra.cube.nn", "./fra.traineddata", "./fra.cube.word-freq", "./fra.tesseract_cube.nn", "./fra.cube.bigrams", "./fra.cube.lm", "./fra.cube.size", "./fra.cube.params"]
+}

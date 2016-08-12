@@ -1,0 +1,10 @@
+{
+"author": "zdenop",
+"author-email": "zdenop@gmail.com",
+"license": "Apache 2.0",
+"modified": "2015-06-25T12:25:00Z",
+"name": "slk_frak",
+"summary": "Tesseract 3.03 slk_frak model",
+"url": "https://github.com/tesseract-ocr/tessdata",
+"files": ["slk_frak.traineddata"]
+}
